@@ -36,11 +36,11 @@ Every pair/programming session should conduct the following process to ensure th
 
 1. Create new branch with a meaningful, goal-driven name.
 2. Switch to the new branch.
-  - ***WARNING***: Be sure to make this switch!
-2. Work on code / content.
-3. After completing the goal, `commit` and `push` changes made on new branch.
-4. Create a `pull request` and ...
-  - Write an overview of your new changes/additions for your other team members to review. You can use a bulleted list to do so.
-  - Tag/request your peers to review it.
-5. Team members should review it in a timely manner and use the discussion features to coordinate their thoughts and ideas.
-6. Once everyone thinks the changes are good, `merge` changes to main branch
+    - ***WARNING***: Be sure to make this switch!
+3. Work on code / content.
+4. After completing the goal, `commit` and `push` changes made on new branch.
+5. Create a `pull request` and ...
+    - Write an overview of your new changes/additions for your other team members to review. You can use a bulleted list to do so.
+    - Tag/request your peers to review it.
+6. Team members should review it in a timely manner and use the discussion features to coordinate their thoughts and ideas.
+7. Once everyone thinks the changes are good, `merge` changes to main branch
