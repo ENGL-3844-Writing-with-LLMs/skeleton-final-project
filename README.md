@@ -18,6 +18,12 @@ Enter basic description of project here in 1-2 sentences.
     |__ .keep
     |__ original-dataset.csv
     |__ processed-dataset.csv
+|__ figures
+    |__ .keep
+    |__ eda-distribution-dates.png
+    |__ eda-distribution-headline-word-count.png
+    |__ fp-tp-heatmap.png
+    |__ ...
 |__ models
     |__ .keep
     |__ trained-model-1.pkl
