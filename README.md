@@ -11,6 +11,25 @@ Enter basic description of project here in 1-2 sentences.
 
 **Filenaming**: Be sure to use all lowercase lettering and hyphens in between all words.
 
+## Basic Architecture
+
+```
+|__ data
+    |__ .keep
+    |__ original-dataset.csv
+    |__ processed-dataset.csv
+|__ models
+    |__ .keep
+    |__ trained-model-1.pkl
+    |__ trained-model-2.pkl
+    |__ ...
+|__ cleaning-and-eda.ipynb
+|__ ml-project-name-here.ipynb
+|__ model-card.pdf
+|__ reflective-memo.pdf
+|__ README.md
+```
+
 ## Team Workflow Process
 
 Every pair/programming session should conduct the following process to ensure that you do not create `git` conflicts:
