@@ -32,6 +32,12 @@ Enter basic description of project here in 1-2 sentences.
 
 ## Team Workflow Process
 
+### Project KanBan Board
+
+Be sure to create tasks for the team to complete. Update the tasks as well, when appropriate.
+
+### Coding on new branches
+
 Every pair/programming session should conduct the following process to ensure that you do not create `git` conflicts:
 
 1. Create new branch with a meaningful, goal-driven name.
